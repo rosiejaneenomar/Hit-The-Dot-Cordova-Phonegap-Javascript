@@ -1,0 +1,2 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.example.app.CordovaApp { <init>(...); }
